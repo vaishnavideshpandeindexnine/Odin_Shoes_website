@@ -1,0 +1,135 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar{
+    display: flex;
+    background-color: #1F2937;
+    margin: auto;
+    color: white;
+    padding: 20px;
+    
+}
+strong{
+    font-size: 50px;
+    margin-top: 100px
+
+}
+.navbar h2{
+    background-color: #1F2937;
+    margin: auto;
+    color: white;
+    
+}
+.nav-items{
+    background-color: #1F2937;
+    margin: auto;
+    color: white;
+    font-size: 20px;
+    margin: auto;
+}
+   
+
+.navbar a{
+    background-color: #1F2937;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+.container-home{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-between;
+   }
+
+.container-home p{
+    flex: 1;
+    max-width: 50%;
+    font-size: 20px;
+
+}
+button{
+    background-color: #1F2937;
+    color: white;
+    font-size: 25px;
+    border:none;
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.image img{
+    margin-left: 32%;
+}
+.featured{
+    background-color: aliceblue;
+}
+.container-featured{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aliceblue;
+    margin: 50px ;
+    
+}
+h1{
+    padding: 50px;
+    text-align: center;
+    font-size: 60px;
+   
+}
+.container-featured p{
+    background-color: aliceblue;
+}
+.feedback {
+    
+    background-color: aliceblue;
+   
+}
+.container-feedback{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aliceblue;
+    margin: 30px ;
+    
+}
+.feed1,.feed2, .feed3{
+    text-align: center;
+    padding: auto;
+}
+.Signup{
+    display: flex;
+    flex-direction: column;
+    justify-content:  space-evenly;
+    background-color: rgb(72, 72, 253);
+    color: white;
+    margin-top: 100px ;
+    margin-left: 300px;
+    margin-right: 300px;
+   padding: 20px;
+    border-radius: 20px;
+}
+.Signup h3{
+    
+    font-size: 30px;
+}
+.Signup p{
+    font-size: 20px;
+    margin-bottom: auto;
+}
+.Signup button{
+        margin-left: 50px;
+       
+    }
+    .footer{
+        background-color: #1F2937;
+    }
+.footer p{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding: 100px;
+}
+
+
